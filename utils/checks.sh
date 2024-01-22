@@ -70,3 +70,4 @@ elif [ $packageStatus -eq 0 ] || [ $commandStatus -eq 0 ]; then
     # Wrap these commands with error handling if necessary
     return 0
 fi
+}
