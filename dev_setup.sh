@@ -39,4 +39,4 @@ source ./modules/install_tailscale.sh
 source ./modules/install_yai.sh
 '
 
-echo "Setup script completed successfully."
+echo "Setup script completed."
